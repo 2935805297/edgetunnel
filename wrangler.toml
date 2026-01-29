@@ -6,4 +6,5 @@ keep_vars = true
 #[[kv_namespaces]]
 #binding = "KV"			#KV绑定名默认不可修改
 
-#id = "Einmana"				#KV数据库id
+#id = "6cfb5f134e634163a9e7b76460e70f60"				#KV数据库id
+
